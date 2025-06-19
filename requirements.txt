@@ -1,0 +1,10 @@
+whisper
+openai
+fpdf
+opencv-python
+mediapipe
+ffmpeg-python
+python-dotenv
+streamlit
+fastapi
+uvicorn
