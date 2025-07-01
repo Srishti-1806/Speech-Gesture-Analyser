@@ -7,6 +7,8 @@ Download the report and ace up your softskills.
 HAPPY LEARNING
 
 
+I have not added my openai_api_key (due to security breaches) llm won't be giving apt response, please add your's in .env folder 
+
 
 
 To run the code:
