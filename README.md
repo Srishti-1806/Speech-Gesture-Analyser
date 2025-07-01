@@ -5,3 +5,12 @@ REMEMBER:
 Your body language, your eye contact with the camera and all word fillers are notably judged. 
 Download the report and ace up your softskills.
 HAPPY LEARNING
+
+
+
+
+To run the code:
+
+docker build -t speech-analyzer .
+
+docker run -p 8501:8501 speech-analyzer
