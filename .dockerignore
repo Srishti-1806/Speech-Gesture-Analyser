@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.exe
+*.db
+*.sqlite3
+temp/
+reports/
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
